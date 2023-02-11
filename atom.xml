@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>mnochen</title>
+  <title>墨尘的生活小站</title>
   
   <subtitle>原来你也......</subtitle>
   <link href="http://mnochen.fun/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://mnochen.fun/</id>
   
   <author>
-    <name>mnochen</name>
+    <name>墨尘</name>
     
   </author>
   

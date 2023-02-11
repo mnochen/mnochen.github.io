@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mnochen.fun/music/index.html</loc>
+    
+    <lastmod>2023-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://mnochen.fun/link/index.html</loc>
     
     <lastmod>2023-02-05</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>http://mnochen.fun/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +75,14 @@
   
   <url>
     <loc>http://mnochen.fun/tags/%E5%88%9D%E6%AC%A1%E7%9B%B8%E9%81%87/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://mnochen.fun/tags/%E5%8E%9F%E7%A5%9E%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2023-02-05</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
