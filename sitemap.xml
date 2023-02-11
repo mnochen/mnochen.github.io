@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>http://mnochen.fun/categories/index.html</loc>
+    
+    <lastmod>2023-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://mnochen.fun/link/index.html</loc>
     
     <lastmod>2023-02-11</lastmod>
@@ -81,12 +90,26 @@
   </url>
   
   <url>
-    <loc>http://mnochen.fun/tags/%E5%8E%9F%E7%A5%9E%E6%94%BB%E7%95%A5/</loc>
+    <loc>http://mnochen.fun/tags/%E5%8E%9F%E7%A5%9E%E5%8F%8D%E5%BA%94%E7%B1%BB/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://mnochen.fun/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://mnochen.fun/categories/%E5%8E%9F%E7%A5%9E%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2023-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

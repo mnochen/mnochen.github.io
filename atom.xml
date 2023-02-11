@@ -30,8 +30,10 @@
     
     
     
+    <category term="原神攻略" scheme="http://mnochen.fun/categories/%E5%8E%9F%E7%A5%9E%E6%94%BB%E7%95%A5/"/>
     
-    <category term="原神攻略" scheme="http://mnochen.fun/tags/%E5%8E%9F%E7%A5%9E%E6%94%BB%E7%95%A5/"/>
+    
+    <category term="原神反应类" scheme="http://mnochen.fun/tags/%E5%8E%9F%E7%A5%9E%E5%8F%8D%E5%BA%94%E7%B1%BB/"/>
     
   </entry>
   
@@ -48,6 +50,8 @@
     <summary type="html">初建博客</summary>
     
     
+    
+    <category term="生活" scheme="http://mnochen.fun/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
     <category term="初次相遇" scheme="http://mnochen.fun/tags/%E5%88%9D%E6%AC%A1%E7%9B%B8%E9%81%87/"/>
