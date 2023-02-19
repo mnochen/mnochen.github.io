@@ -385,7 +385,7 @@ button:not(:disabled) {
   width: 100%;
   margin: auto;
 }
-
+/* 个人简介透明化 */
 #aside-content > .card-widget.card-info {
   background: linear-gradient(-45deg, var(--anzhiyu-main), #031764, #150136, #67044d);
   background-size: 400%;
